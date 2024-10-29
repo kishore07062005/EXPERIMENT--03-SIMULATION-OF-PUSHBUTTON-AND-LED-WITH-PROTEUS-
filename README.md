@@ -179,9 +179,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+![WhatsApp Image 2024-10-29 at 12 35 04 (1)](https://github.com/user-attachments/assets/2f895ae1-2929-4191-a3ab-79869f93650c)
 
-
-![Uploading WhatsApp Image 2024-10-29 at 12.35.04 (1).jpeg…]()
 ![WhatsApp Image 2024-10-29 at 12 35 04](https://github.com/user-attachments/assets/40133918-95d5-4fb7-8422-bea23097c130)
 
 
